@@ -17,5 +17,5 @@ Probabilistic inequalities, concentration, and limit theorems
 Regression
 Sampling, parameter estimation, and confidence intervals
 Hypothesis testing
-Learning Objectives
+Learning Objectives 
 The course will teach you how to visualize, understand, and reason about probabilistic and statistical concepts, and how to apply your knowledge to analyze data sets and draw meaningful conclusions from data. We will cover both theoretical and practical aspects, and will start each topic with motivation and intuition and will proceed with rigorous arguments and provable techniques. Each topic will be accompanied by a Python Notebook that you could run and modify to experiment with the material learned and get a better feel for the material covered.
