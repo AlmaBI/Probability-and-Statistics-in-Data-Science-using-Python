@@ -1,7 +1,7 @@
 # Probability-and-Statistics-in-Data-Science-using-Python
 This course will introduce more data science skills that prepare you for the next two courses in the MicroMasters: DSE220x-Machine Learning Fundamentals, and DSE230X-Big Data Analytics using Spark.
 
-Overview
+## Overview ##
 The course will cover the following topics:
 
 Overview of sets
